@@ -1,4 +1,6 @@
-<p align="left">Sou uma pessoa calma que nunca desiste de resolver um problema ou de aprender coisas novas. Uma pessoa bem comunicativa e proativa, ótimo em trabalhos em equipe e aprendo as coisas com facilidade.<br><br>Atualmente a área que eu mais estou me dando melhor é a área de dados, como o MySQL. Porém vejo que a área de back-end  como um desenvolvedor é essencial para o meu desenvolvimento como profissional, tendo em vista que as linguagens que eu citei meu conhecimento é de nível acadêmico. Estou no 3° período de Ciências da Computação e estou gostando do meu desenvolvimento.</p>
+<p align="left">Sou uma pessoa calma que nunca desiste de resolver um problema ou de aprender coisas novas. Uma pessoa bem comunicativa e proativa, ótimo em trabalhos em equipe e aprendo as coisas com facilidade.
+
+Atualmente a área que eu mais estou me dando melhor é a área de dados. Porém vejo que a área de back-end  como um desenvolvedor é essencial para o meu desenvolvimento como profissional. Estou no 5° período de Ciências da Computação e estou gostando do meu desenvolvimento.<br><br>Atualmente a área que eu mais estou me dando melhor é a área de dados, como o MySQL. Porém vejo que a área de back-end  como um desenvolvedor é essencial para o meu desenvolvimento como profissional, tendo em vista que as linguagens que eu citei meu conhecimento é de nível acadêmico. Estou no 3° período de Ciências da Computação e estou gostando do meu desenvolvimento.</p>
 
 ###
 
