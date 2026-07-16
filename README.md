@@ -143,9 +143,11 @@ Também estou expandindo meus conhecimentos em **Inteligência Artificial** para
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heitorodrigue&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heitorodrigue&theme=github_dark" width="95%"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorodrigue&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heitorodrigue&theme=github_dark" width="47%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heitorodrigue&theme=github_dark" width="47%"/>
 
 </p>
 
